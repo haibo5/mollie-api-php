@@ -52,7 +52,7 @@
   "require-dev": {
     "eloquent/liberator": "^2.0||^3.0",
     "friendsofphp/php-cs-fixer": "^3.0",
-    "guzzlehttp/guzzle": "^6.3 || ^7.0",
+    "guzzlehttp/guzzle": "^6.3 || ^7.0"
   },
   "suggest": {
     "mollie/oauth2-mollie-php": "Use OAuth to authenticate with the Mollie API. This is needed for some endpoints. Visit https://docs.mollie.com/ for more information."
